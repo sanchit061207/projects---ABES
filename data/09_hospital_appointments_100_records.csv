@@ -1,0 +1,101 @@
+Appointment_ID,Patient_ID,Appointment_Date,Department,Appointment_Type,Attendance_Status,Waiting_Time_Minutes,SMS_Reminder,Consultation_Fee
+APT1001,PAT0042,2026-09-05,Orthopedics,Follow-up,Attended,34.0,No,788
+APT1002,PAT0049,2026-10-05,Cardiology,Follow-up,Attended,32.0,No,892
+APT1003,PAT0031,2026-09-30,Neurology,New,Attended,17.0,Yes,1022
+APT1004,PAT0051,2026-09-20,Neurology,Follow-up,Attended,48.0,Yes,959
+APT1005,PAT0060,2026-09-20,Neurology,New,Attended,31.0,Yes,1071
+APT1006,PAT0058,2026-10-09,Neurology,Follow-up,Attended,32.0,No,988
+APT1007,PAT0047,2026-09-04,Dermatology,New,No-show,,No,538
+APT1008,PAT0005,2026-10-02,ENT,Follow-up,No-show,,Yes,624
+APT1009,PAT0055,2026-09-10,Cardiology,Follow-up,Attended,22.0,Yes,1006
+APT1010,PAT0028,2026-09-05,Cardiology,Follow-up,Attended,26.0,Yes,827
+APT1011,PAT0056,2026-09-24,Neurology,New,Cancelled,,Yes,1012
+APT1012,PAT0041,2026-10-14,Dermatology,Follow-up,Attended,23.0,No,691
+APT1013,PAT0067,2026-10-04,ENT,New,Attended,,Yes,616
+APT1014,PAT0026,2026-10-05,Neurology,New,Attended,41.0,Yes,1097
+APT1015,PAT0070,2026-10-03,ENT,Follow-up,No-show,,No,558
+APT1016,PAT0064,2026-10-06,ENT,New,Attended,26.0,Yes,549
+APT1017,PAT0025,2026-09-24,ENT,Follow-up,No-show,,Yes,617
+APT1018,PAT0037,2026-09-06,Orthopedics,Follow-up,Attended,43.0,Yes,705
+APT1019,PAT0040,2026-10-08,Cardiology,New,Attended,30.0,Yes,873
+APT1020,PAT0058,2026-09-21,Dermatology,Follow-up,No-show,,Yes,645
+APT1021,PAT0052,2026-09-23,Orthopedics,New,No-show,,Yes,809
+APT1022,PAT0064,2026-09-17,Dermatology,Follow-up,Attended,2.0,Yes,549
+APT1023,PAT0028,2026-09-09,General Medicine,New,Attended,38.0,Yes,427
+APT1024,PAT0038,2026-10-12,Orthopedics,Follow-up,Attended,25.0,Yes,748
+APT1025,PAT0033,2026-10-06,Cardiology,New,Attended,,No,925
+APT1026,PAT0069,2026-09-29,Orthopedics,New,Attended,33.0,Yes,867
+APT1027,PAT0023,2026-09-19,Orthopedics,Follow-up,Cancelled,,Yes,690
+APT1028,PAT0045,2026-10-08,Neurology,Follow-up,Attended,36.0,Yes,1125
+APT1029,PAT0010,2026-09-25,ENT,Follow-up,Attended,26.0,No,565
+APT1030,PAT0064,2026-09-20,Neurology,Follow-up,No-show,,No,1080
+APT1031,PAT0029,2026-09-21,Neurology,Follow-up,Attended,59.0,Yes,1010
+APT1032,PAT0026,2026-09-11,Dermatology,Follow-up,Cancelled,,Yes,587
+APT1033,PAT0044,2026-09-05,General Medicine,Follow-up,No-show,,Yes,479
+APT1034,PAT0038,2026-09-25,Orthopedics,New,Attended,51.0,Yes,813
+APT1035,PAT0064,2026-10-10,Cardiology,Follow-up,Attended,34.0,Yes,853
+APT1036,PAT0040,2026-09-03,Cardiology,Follow-up,Cancelled,,Yes,966
+APT1037,PAT0039,2026-10-09,Neurology,New,Attended,39.0,Yes,1076
+APT1038,PAT0008,2026-10-08,Dermatology,New,Cancelled,,Yes,602
+APT1039,PAT0002,2026-09-13,Orthopedics,Follow-up,Attended,40.0,Yes,861
+APT1040,PAT0030,2026-09-29,Dermatology,New,No-show,,Yes,653
+APT1041,PAT0075,2026-09-08,Cardiology,Follow-up,No-show,,No,892
+APT1042,PAT0069,2026-10-05,Neurology,New,Attended,28.0,Yes,927
+APT1043,PAT0048,2026-10-02,Dermatology,New,Attended,22.0,No,660
+APT1044,PAT0048,2026-09-16,Dermatology,Follow-up,Attended,18.0,Yes,567
+APT1045,PAT0030,2026-09-04,Orthopedics,New,Attended,32.0,No,827
+APT1046,PAT0014,2026-10-14,ENT,New,Attended,13.0,No,580
+APT1047,PAT0001,2026-09-21,Dermatology,Follow-up,No-show,,No,618
+APT1048,PAT0026,2026-10-11,Cardiology,Follow-up,Attended,16.0,No,857
+APT1049,PAT0024,2026-10-01,Cardiology,New,Attended,11.0,No,968
+APT1050,PAT0015,2026-10-06,General Medicine,New,Attended,14.0,No,358
+APT1051,PAT0020,2026-10-05,General Medicine,Follow-up,Attended,21.0,No,408
+APT1052,PAT0002,2026-09-09,Neurology,Follow-up,Cancelled,,Yes,1093
+APT1053,PAT0046,2026-09-17,Orthopedics,Follow-up,No-show,,Yes,859
+APT1054,PAT0070,2026-09-22,General Medicine,New,Attended,23.0,Yes,523
+APT1055,PAT0052,2026-09-23,Neurology,New,Cancelled,,No,1117
+APT1056,PAT0034,2026-09-02,Neurology,New,No-show,,Yes,1036
+APT1057,PAT0032,2026-09-25,Dermatology,New,Attended,40.0,Yes,565
+APT1058,PAT0024,2026-09-07,Orthopedics,Follow-up,No-show,,No,843
+APT1059,PAT0011,2026-10-04,Cardiology,New,Attended,46.0,Yes,986
+APT1060,PAT0045,2026-10-01,General Medicine,Follow-up,Cancelled,,Yes,524
+APT1061,PAT0043,2026-10-12,Dermatology,Follow-up,Attended,8.0,Yes,655
+APT1062,PAT0001,2026-10-04,Orthopedics,Follow-up,Attended,32.0,Yes,703
+APT1063,PAT0032,2026-09-17,Orthopedics,New,Attended,24.0,Yes,776
+APT1064,PAT0021,2026-10-14,ENT,Follow-up,No-show,,Yes,565
+APT1065,PAT0013,2026-09-19,Orthopedics,Follow-up,Attended,25.0,Yes,844
+APT1066,PAT0053,2026-09-15,General Medicine,Follow-up,Attended,29.0,Yes,403
+APT1067,PAT0040,2026-10-11,Neurology,New,Attended,44.0,Yes,991
+APT1068,PAT0048,2026-09-17,Neurology,New,No-show,,No,941
+APT1069,PAT0054,2026-09-04,Dermatology,Follow-up,Attended,15.0,Yes,692
+APT1070,PAT0074,2026-09-22,ENT,New,Cancelled,,No,626
+APT1071,PAT0061,2026-10-06,ENT,New,No-show,,No,483
+APT1072,PAT0047,2026-09-09,ENT,Follow-up,Attended,,Yes,562
+APT1073,PAT0066,2026-09-21,Cardiology,Follow-up,Attended,21.0,Yes,921
+APT1074,PAT0036,2026-09-06,Dermatology,Follow-up,Attended,19.0,Yes,619
+APT1075,PAT0074,2026-10-01,Cardiology,New,Attended,62.0,No,1009
+APT1076,PAT0058,2026-09-22,Dermatology,Follow-up,No-show,,No,555
+APT1077,PAT0049,2026-09-15,Orthopedics,New,Attended,31.0,No,736
+APT1078,PAT0068,2026-09-11,Cardiology,Follow-up,No-show,,Yes,861
+APT1079,PAT0039,2026-09-26,Cardiology,Follow-up,Attended,,No,874
+APT1080,PAT0055,2026-10-01,ENT,New,No-show,,Yes,657
+APT1081,PAT0022,2026-10-13,Orthopedics,New,Cancelled,,No,864
+APT1082,PAT0073,2026-09-20,General Medicine,New,No-show,,Yes,333
+APT1083,PAT0047,2026-09-08,ENT,Follow-up,No-show,,No,602
+APT1084,PAT0059,2026-10-08,Dermatology,Follow-up,No-show,,No,571
+APT1085,PAT0035,2026-09-29,ENT,Follow-up,Attended,24.0,Yes,513
+APT1086,PAT0066,2026-10-02,Cardiology,Follow-up,Attended,40.0,Yes,883
+APT1087,PAT0006,2026-09-05,General Medicine,Follow-up,Attended,26.0,Yes,364
+APT1088,PAT0009,2026-09-15,Dermatology,Follow-up,Attended,17.0,No,623
+APT1089,PAT0039,2026-10-05,Neurology,New,Attended,29.0,Yes,1125
+APT1090,PAT0055,2026-10-08,Cardiology,New,No-show,,No,942
+APT1091,PAT0061,2026-09-20,Dermatology,Follow-up,No-show,,Yes,670
+APT1092,PAT0034,2026-10-07,Dermatology,Follow-up,Attended,23.0,No,624
+APT1093,PAT0049,2026-10-08,General Medicine,New,No-show,,No,327
+APT1094,PAT0042,2026-09-18,ENT,Follow-up,Attended,13.0,Yes,491
+APT1095,PAT0073,2026-10-11,Dermatology,Follow-up,Attended,26.0,No,579
+APT1096,PAT0050,2026-09-13,Orthopedics,Follow-up,No-show,,No,723
+APT1097,PAT0032,2026-09-11,Orthopedics,Follow-up,Cancelled,,No,843
+APT1098,PAT0073,2026-10-01,ENT,New,Attended,34.0,Yes,644
+APT1099,PAT0009,2026-09-29,Dermatology,New,Attended,23.0,Yes,696
+APT1099,PAT0074,2026-09-07,Cardiology,Follow-up,Attended,30.0,Yes,953
